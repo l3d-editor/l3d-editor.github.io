@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.84896 0 0 .84896 -2.5272 8.7729)">
+  <path d="m12.29 4-8.29 8.29v23.71h23.71l8.29-8.29v-23.71zm22.71 23.29-7 7v-21.58l7-7zm-30 7.29v-21.58h22v22h-21.59l-0.41-0.41zm29.29-29.58-7 7h-21.58l7-7h21.59z"/>
+  <path d="m4.68 35.33 7.8284-7.8284v-22.992" fill="none" stroke="#000" stroke-width="1px"/>
+  <path d="m12.508 27.501 22.992-0.03404" fill="none" stroke="#000" stroke-width="1px"/>
+ </g>
+ <g transform="matrix(.84896 0 0 .84896 8.4071 -2.5116)">
+  <path d="m12.29 4-8.29 8.29v23.71h23.71l8.29-8.29v-23.71zm22.71 23.29-7 7v-21.58l7-7zm-30 7.29v-21.58h22v22h-21.59l-0.41-0.41zm29.29-29.58-7 7h-21.58l7-7h21.59z"/>
+  <path d="m4.68 35.33 7.8284-7.8284v-22.992" fill="none" stroke="#000" stroke-width="1px"/>
+  <path d="m12.508 27.501 22.992-0.03404" fill="none" stroke="#000" stroke-width="1px"/>
+ </g>
+</svg>
